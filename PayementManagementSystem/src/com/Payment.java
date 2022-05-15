@@ -128,7 +128,7 @@ public String readPayment()
 		}
 
 
-//Delete
+//Delete payment
 public String deletePayment(String paymentCode)
 	{
 		String output = "";
