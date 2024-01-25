@@ -1,4 +1,4 @@
-<h1 align="center" id="title">ElectroGrid_Payment Management &amp; Spa</h1>
+<h1 align="center" id="title">ElectroGrid_Payment Management</h1>
 
 <p id="description">This project was done for the Programming Applications and Framework Module in my Third year</p>
 
